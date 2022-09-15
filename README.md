@@ -1,16 +1,19 @@
-### Hi there 👋
-# My name is Evgenii Kovalev
-<!--
-**evgenkov81/evgenkov81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"> Hi here 👋
+<h3 align="center">  My name is Evgenii Kovalev
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Mail:
+evgenkov81@gmail.com
+
+### Social networks:
+
+<a href="https://t.me/EvgeniiK81">
+   <img top="0" src="https://img.shields.io/badge/telegram-%2320232a.
+svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram" target="_blank"
+margin-left="15px">
+</a>
+
+### Languages and tools:
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,linux,maven,git,docker" />
+</a>
