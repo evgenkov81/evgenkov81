@@ -7,11 +7,9 @@ evgenkov81@gmail.com
 
 ### Social networks:
 <a href="https://t.me/evgeniiK81">
-   <img top="0" src="https://img.shields.io/badge/telegram-%2320232a
-svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram" target="_blank"
-margin-left="15px">
+<img src =https://img.shields.io/badge/Telegram-2CA5E0?style=
+for-the-badge&logo=telegram&logoColor=white)
 </a>
-
 
 ### Languages and tools:
 
