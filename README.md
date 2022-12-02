@@ -1,5 +1,5 @@
 <h1 align="center"> Hi here 👋
-<h3 align="center">  My name is Evgenii Kovalev
+<h3 align="center">  My name is Evgenii
 
 
 ### Mail:
