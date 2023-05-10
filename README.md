@@ -14,5 +14,5 @@ for-the-badge&logo=telegram&logoColor=white)
 ### Languages and tools:
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,linux,maven,git,docker" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,linux,maven,git,docker,grafana,postman,jmeter,loadrunner" />
 </a>
